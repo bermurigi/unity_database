@@ -1,0 +1,1376 @@
+fileFormatVersion: 2
+guid: e8549564d4c3d8c4f814b91a581cd7fa
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 768
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26faaa73ad57d93419c156de02def5e3
+      internalID: 1743519453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 768
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83843b42dcf8ebc4b80096f97355e3d2
+      internalID: 253244517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 768
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b629d5794f2b649a6b6d381f6dfccf
+      internalID: 1686649453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 768
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef4e7e6080a39f4b898393038a8fe0d
+      internalID: 1983099672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_4
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 768
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b976f7aec64f594bbfa100cc59d951e
+      internalID: 1527347935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_5
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23784297f207f147a4fa052780c4905
+      internalID: -727642028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_6
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e6027ed74a3ed479ede23ce049e56c
+      internalID: 1973264399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_7
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 700
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abff84e8ba53ea4faed13197dd9cdc4
+      internalID: -1814242699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 700
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d3ceced00a4df478da16372ff540ce
+      internalID: -663512286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_9
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 700
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014ce5e40099e0d498ef4458ae94f122
+      internalID: -1373690321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_10
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 700
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048d64d5567018644a018d39760b49ba
+      internalID: 6525670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_11
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 700
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba77c355f58d964b978f7c481bf9790
+      internalID: 324867978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_12
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 700
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0404ab8bc2f2bc648a1fdae44c423f1b
+      internalID: -412355072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_13
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 700
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d866af31794a96644a6188c7115f2124
+      internalID: 65912459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 632
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec3f68c32457584a9a45b950ecda227
+      internalID: 129482418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_15
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 632
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62616490d76fc5e42913dc862fc0295e
+      internalID: -1023637421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 632
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10838c1d24615c41a394f08edb8977b
+      internalID: 1373019636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_17
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 632
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd10f2a5cffef314596ed3be7e3994ed
+      internalID: 503629337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_18
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 632
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba7b8655c48ff148a3f53b9ae41f36c
+      internalID: -559411347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_19
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 564
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72422583ae67fdf4d9aa104c191ced7b
+      internalID: -750946607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_20
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 564
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5b1d089db8eb34ea0dfd82dc8c94a2
+      internalID: 1424875456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_21
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 564
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2e9a1639e98d84a8da4702e8b6898c
+      internalID: -1527852169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_22
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 564
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d9e4b89b309c04b868cd9fc2e1acf3
+      internalID: -465416136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_23
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 564
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97528c9ed1e500a439c536f6edbfed4f
+      internalID: -243068399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_24
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 564
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92325445fa24cb9449d50d4aac0bdab7
+      internalID: 496099044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_25
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 564
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d32aba6f4ce6e48ab2587de991778c
+      internalID: -1947578716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_26
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 564
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300ccb7d2a359ce4e979d62c09dd1a22
+      internalID: -927028797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_27
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355e81511a766694a964fcf61a191c2e
+      internalID: -1973462251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_28
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2030ae08113c79488387d712171700f
+      internalID: -271798013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_29
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6c4739503fd2345a731c7cf128e9d5
+      internalID: 724494076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_30
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787e94c2d18cb574c8dccf6e27dd4889
+      internalID: 1255379304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_31
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440d7871af59c5347afc28819198a07d
+      internalID: 964461252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_32
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb9d9419ca85934ba5bb2b556d2790d
+      internalID: 1990522998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_33
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d241296ccfbe90f4bb3661bbdaca9c5b
+      internalID: -1028270673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_34
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1a7a1cd740cd941acd4507e22344b5
+      internalID: -308752792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_35
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3899959427b25546854b95899dbcf97
+      internalID: -579207972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_36
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 460
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615b887ae3f89ab4fa98d33a99de4053
+      internalID: -1886603558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_37
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 460
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804f9742e1d286547836fbe772b4051c
+      internalID: 1736285314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_38
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 460
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25cf42ccb1df5d4cb0e7b1e19f6108f
+      internalID: -874448041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_39
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 460
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457620a9ff6b3844488ef2e84addc5ab
+      internalID: -835720421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_40
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 460
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25997053d43bb5245bedd7f949bbcb50
+      internalID: -1780497886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_41
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 460
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4dad08585eecde4bbb467712a15967c
+      internalID: 1823954807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_42
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 460
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd0a034a69bf664f9b803e42bb440a0
+      internalID: -183833119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_43
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 460
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce5862a70b7dd64baef767c5a1e08ee
+      internalID: -1362335510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_44
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 460
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae0a4ecfe66d7e4194df83ce0874da3
+      internalID: -1652259996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_45
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 392
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8040bed709ed5e4d81b09356d9d0f23
+      internalID: -12498825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_46
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 392
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ec40d75d1a7a9488cabba402df5975
+      internalID: -987960432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_47
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 392
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f211f929eaf2048bc198ed97f1e387
+      internalID: -1326741013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_48
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 392
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11aaa89437de3d84489b134c889e370a
+      internalID: -515598558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_49
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 392
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135d25db08f11254782eb411d96791fb
+      internalID: 1164076379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_50
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 392
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd5e5cc011670848ab58eae87d77320
+      internalID: 399764665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_51
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 392
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bc3f1c35d34f1439e63139262ccc9c
+      internalID: 1883913233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_52
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 392
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bf0593b5add954598a4c0931ed0f84
+      internalID: -1203534156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_53
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 392
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ff8dbb23a99794e9df68980bafc618
+      internalID: -4122024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_54
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 704
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47b5fd1ad9d35e4899eec438f57c059
+      internalID: 702447064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_0: 1743519453
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_1: 253244517
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_10: 6525670
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_11: 324867978
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_12: -412355072
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_13: 65912459
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_14: 129482418
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_15: -1023637421
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_16: 1373019636
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_17: 503629337
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_18: -559411347
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_19: -750946607
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_2: 1686649453
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_20: 1424875456
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_21: -1527852169
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_22: -465416136
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_23: -243068399
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_24: 496099044
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_25: -1947578716
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_26: -927028797
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_27: -1973462251
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_28: -271798013
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_29: 724494076
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_3: 1983099672
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_30: 1255379304
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_31: 964461252
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_32: 1990522998
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_33: -1028270673
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_34: -308752792
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_35: -579207972
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_36: -1886603558
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_37: 1736285314
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_38: -874448041
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_39: -835720421
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_4: 1527347935
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_40: -1780497886
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_41: 1823954807
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_42: -183833119
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_43: -1362335510
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_44: -1652259996
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_45: -12498825
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_46: -987960432
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_47: -1326741013
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_48: -515598558
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_49: 1164076379
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_5: -727642028
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_50: 399764665
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_51: 1883913233
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_52: -1203534156
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_53: -4122024
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_54: 702447064
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_6: 1973264399
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_7: -1814242699
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_8: -663512286
+      super_mario_bros__re_tiled__tileset_by_supermariospongebob_degvkf1-fullview_9: -1373690321
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
